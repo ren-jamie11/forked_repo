@@ -30,4 +30,8 @@ Reduced the dimensionality of US Treasury yield curves using Nelson-Siegel (Î²â‚
 
 #### [Poker Hand vs Range Probability Tool](https://github.com/ren-jamie11/poker_gui)
 
-Built a Python application that calculates exact hand type probabilities and opponent win odds on the flop/turn/river, given customizable ranges. Outputs results in under 0.1s.
+Built a Python application that calculates exact hand type probabilities and opponent win odds on the flop/turn/river, given customizable ranges. Outputs results in under 0.2s.
+
+<img src="https://ren-jamie11.github.io/portfolio/assets/img/gui2.png" alt="Alt text" width="800">
+
+
