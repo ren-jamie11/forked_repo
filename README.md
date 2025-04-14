@@ -3,7 +3,8 @@
 I am passionate about working with data to construct compelling insights and predictive models that help businesses make smarter decisions and deliver outstanding products to customers. 
 
 ## Education
-**Carnegie Mellon University \|** *M.S. Computational Finance (Dec 2024)* </br>
+**Carnegie Mellon University \|** *M.S. Computational Finance (Dec 2024)* 
+
 **New York University \|** *B.A. Mathematics (May 2023)*
 
 ---
@@ -34,8 +35,8 @@ Reduced the dimensionality of US Treasury yield curves using Nelson-Siegel (Î²â‚
 
 #### [Poker Hand vs Range Probability Tool](https://github.com/ren-jamie11/poker_gui)
 
-Built a Python application that calculates exact hand type probabilities and opponent win odds on the flop/turn/river, given customizable ranges. Outputs results in under 0.2s.
+Built a Python application that calculates exact hand type probabilities and opponent win odds on the flop/turn/river, given customizable ranges
 
-<img src="https://ren-jamie11.github.io/portfolio/assets/img/gui2.png" alt="Alt text" width="800">
+<img src="https://ren-jamie11.github.io/portfolio/assets/img/gui2.png" alt="Alt text" width="1000">
 
 
