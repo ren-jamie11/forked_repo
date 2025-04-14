@@ -2,14 +2,14 @@
 
 I am passionate about working with data to construct compelling insights and predictive models that help businesses make smarter decisions and deliver outstanding products to customers. 
 
-## Education		       		
-- M.S., Computational Finance	| Carnegie Mellon University (_Dec 2024_)	 			        		
-- B.A. Mathematics | New York University (_May 2019_)
+## Education
+- **Carnegie Mellon University |** *M.S. Computational Finance (Dec 2024)*
+- **New York University |** *B.A. Mathematics (May 2023)*
 
 ## Work Experience
 
-#### **Qube Research & Technologies**  
-#### *Quant Research Intern (Feb - Apr 2025)*
+**Qube Research & Technologies**  
+*Quant Research Intern (Feb – Apr 2025)*
 
 - Designed 4 high-frequency strategies using microstructure tick data to predict forward returns in crypto futures
 - Used hypothesis testing across 250 crypto products over 15-month period to verify proposed implementation outperforms existing one  
