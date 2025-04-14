@@ -7,8 +7,9 @@ I am transitioning from quantitative finance to data science so that I can apply
 - Music
 - Sports
 - Books
+- Digital media
+- Advertising
 - Ecommerce
-- Digital media & advertising
 
 
 ## Education
