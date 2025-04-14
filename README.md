@@ -3,8 +3,8 @@
 I am passionate about working with data to construct compelling insights and predictive models that help businesses make smarter decisions and deliver outstanding products to customers. 
 
 ## Education
-- **Carnegie Mellon University \|** *M.S. Computational Finance (Dec 2024)*
-- **New York University \|** *B.A. Mathematics (May 2023)*
+**Carnegie Mellon University \|** *M.S. Computational Finance (Dec 2024)* </br>
+**New York University \|** *B.A. Mathematics (May 2023)*
 
 
 ## Work Experience
@@ -15,6 +15,9 @@ I am passionate about working with data to construct compelling insights and pre
 - Designed 4 high-frequency strategies using microstructure tick data to predict forward returns in crypto futures
 - Used hypothesis testing across 250 crypto products over 15-month period to verify proposed implementation outperforms existing one  
 - Built dashboard pipeline to visualize strategy performance (PnL, Sharpe ratio, signal vs return regression, autocorrelation, etc.).
+
+**Squarepoint Capital**  
+*Quant Research Intern (Feb – Apr 2025)*
 
 #### **Squarepoint Capital** · *Quant Research Intern (Jun - Aug 2024)*  
 - Improved chat parser mapping Bloomberg broker quotes to securities using regex; recall increased from 60% to 90%, with >95% accuracy across 6 fields.  
