@@ -6,6 +6,7 @@ I am passionate about working with data to construct compelling insights and pre
 **Carnegie Mellon University \|** *M.S. Computational Finance (Dec 2024)* </br>
 **New York University \|** *B.A. Mathematics (May 2023)*
 
+---
 
 ## Work Experience
 
@@ -17,9 +18,8 @@ I am passionate about working with data to construct compelling insights and pre
 - Built dashboard pipeline to visualize strategy performance (PnL, Sharpe ratio, signal vs return regression, autocorrelation, etc.).
 
 **Squarepoint Capital**  
-*Quant Research Intern (Feb – Apr 2025)*
-
-#### **Squarepoint Capital** · *Quant Research Intern (Jun - Aug 2024)*  
+*Quant Research Intern (Jun – Aug 2024)*
+ 
 - Improved chat parser mapping Bloomberg broker quotes to securities using regex; recall increased from 60% to 90%, with >95% accuracy across 6 fields.  
 - Ran parser on 120k+ messages over 65 days to provide novel insights on trade flow and broker selection
 - Created daily automated dashboard that aggregates raw data from trade feeds, allowing management to granularly monitor trading activity
