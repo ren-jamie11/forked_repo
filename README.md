@@ -6,9 +6,10 @@ I’m passionate about working with data to extract insights, build software, an
 I am transitioning from quantitative finance to data science so that I can apply my skillsets in service of a product that meets a real human need. I am deeply curious about a wide range of domains, such as: 
 - Music
 - Sports
+- Books
 - Ecommerce
-- Social media / advertising
-- Digital media
+- Digital media & advertising
+
 
 ## Education
 **Carnegie Mellon University \|** *M.S. Computational Finance (Dec 2024)* 
