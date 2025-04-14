@@ -3,8 +3,9 @@
 I am passionate about working with data to construct compelling insights and predictive models that help businesses make smarter decisions and deliver outstanding products to customers. 
 
 ## Education
-- **Carnegie Mellon University |** *M.S. Computational Finance (Dec 2024)*
-- **New York University |** *B.A. Mathematics (May 2023)*
+- **Carnegie Mellon University \|** *M.S. Computational Finance (Dec 2024)*
+- **New York University \|** *B.A. Mathematics (May 2023)*
+
 
 ## Work Experience
 
