@@ -11,6 +11,8 @@ I am transitioning from quantitative finance to data science so that I can apply
 - Advertising
 - Ecommerce
 
+**Tech stack**
+Python (numpy, pandas, scikit-learn, matplotlib, seaborn, tkinter, regex, beautiful soup), SQL
 
 ## Education
 **Carnegie Mellon University \|** *M.S. Computational Finance (Dec 2024)* 
