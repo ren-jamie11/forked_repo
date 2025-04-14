@@ -1,6 +1,6 @@
 # Data Scientist
 
-I am passionate about working with data to construct compelling insights and predictive models that help businesses make smarter decisions and deliver outstanding products to customers. 
+I’m passionate about working with data to extract insights, build software, and develop ML models that help humans make smarter business and personal decisions.
 
 ## Education
 **Carnegie Mellon University \|** *M.S. Computational Finance (Dec 2024)* 
