@@ -1,7 +1,5 @@
 # Data Scientist
 
-I’m passionate about working with data to extract insights, build software, and develop ML models that help humans make smarter business and personal decisions.
-
 **My current journey**
 I am transitioning from quantitative finance to data science so that I can apply my skillsets in service of a product that meets a real human need. I am deeply curious about a wide range of domains, such as: 
 - Music
