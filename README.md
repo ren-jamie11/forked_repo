@@ -23,8 +23,8 @@ Python (numpy, pandas, scikit-learn, matplotlib, seaborn, tkinter, regex, beauti
 **Qube Research & Technologies**  
 *Quant Research Intern (Feb – Apr 2025)*
 
-- Designed 4 high-frequency strategies using microstructure tick data to predict forward returns in crypto futures
-- Used hypothesis testing across 250 crypto products over 15-month period to verify proposed implementation outperforms existing one  
+- Constructed 4 high-frequency strategies using microstructure tick data to predict forward returns in crypto futures
+- Applied hypothesis testing across 250 crypto products over 15-month period to verify proposed implementation outperforms existing one  
 - Built dashboard pipeline to visualize strategy performance (PnL, Sharpe ratio, signal vs return regression, autocorrelation, etc.).
 
 **Squarepoint Capital**  
