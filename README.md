@@ -30,7 +30,7 @@ Python (numpy, pandas, scikit-learn, matplotlib, seaborn, tkinter, regex, beauti
 **Squarepoint Capital**  
 *Quant Research Intern (Jun – Aug 2024)*
  
-- Improved chat parser mapping Bloomberg broker quotes to securities using regex; recall increased from 60% to 90%, with >95% accuracy across 6 fields.  
+- Implemented Bloomberg chat parser that maps broker quotes to securities using regex/Python with >90% recall and >95% accuracy 
 - Ran parser on 120k+ messages over 65 days to provide novel insights on trade flow and broker selection
 - Created daily automated dashboard that aggregates raw data from trade feeds, allowing management to granularly monitor trading activity
 
