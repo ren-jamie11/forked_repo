@@ -1,6 +1,5 @@
-# Data Scientist
+# Aspiring Data Scientist
 
-**My current journey**
 I am transitioning from quantitative finance to data science so that I can apply my skillsets in service of a product that meets a real human need. I am deeply curious about a wide range of domains, such as: 
 - Music
 - Sports
