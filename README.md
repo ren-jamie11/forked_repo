@@ -14,7 +14,7 @@ Python (numpy, pandas, scikit-learn, matplotlib, seaborn, tkinter, regex, beauti
 ## Education
 **Carnegie Mellon University \|** *M.S. Computational Finance (Dec 2024)* 
 
-**New York University \|** *B.A. Mathematics (May 2023)*
+**New York University \|** *B.A. Mathematics, B.S. Business (May 2023)*
 
 ---
 
