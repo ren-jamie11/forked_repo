@@ -40,11 +40,10 @@ Python (numpy, pandas, scikit-learn, matplotlib, seaborn, tkinter, regex, beauti
 
 #### [Yield Curve Modeling with Nelson-Siegel + Linear Regression](https://github.com/ren-jamie11/nelson_siegel)
 
-Reduced the dimensionality of US Treasury yield curves using Nelson-Siegel (β₁, β₂, β₃), and regressed macroeconomic indicators on these latent factors to forecast future curves.
-
+Applied dimension reduction technique to transform US Treasury yield curve to time series of (β₁, β₂, β₃), then analyzed regression results of macroeconomic variables on these new response features vs. OLS on original yield curve values 
 #### [Poker Hand vs Range Probability Tool](https://github.com/ren-jamie11/poker_gui)
 
-Built a Python application that calculates exact hand type probabilities and opponent win odds on the flop/turn/river, given customizable ranges
+Built a Python application that displays exact probabilities of each hand type and opponent's win odds on flop, turn, and river when given opponent's hand range.
 
 <img src="https://ren-jamie11.github.io/portfolio/assets/img/gui2.png" alt="Alt text" width="1000">
 
