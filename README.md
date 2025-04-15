@@ -32,7 +32,7 @@ Python (numpy, pandas, scikit-learn, matplotlib, seaborn, tkinter, regex, beauti
  
 - Implemented Bloomberg chat parser that maps broker quotes to securities using regex with >90% recall and >95% accuracy 
 - Ran parser on 120k+ messages over 65 days to provide novel insights on trade flow and broker selection
-- Created daily automated dashboard that aggregates raw data from trade feeds, allowing management to granularly monitor trading activity
+- Created daily automated dashboard that aggregates raw trade data into detailed yet easy-to-read report for senior management
 
 ---
 
