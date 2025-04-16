@@ -1,6 +1,6 @@
 # Aspiring Data Scientist
 
-I am eager to apply my quant finance background to data science, where I can help companies develop cool digital products for customers. I am deeply curious about a wide range of domains, such as:
+I am eager to apply my quant finance background to data science, where I can help companies develop outstanding digital products for customers. I am deeply curious about a wide range of domains, such as:
 - Music
 - Sports
 - Books
